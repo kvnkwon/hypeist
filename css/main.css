@@ -97,7 +97,11 @@ a {
 @media (min-width:320px) and (max-width: 480px) {
 
   #my-role {
-    padding: 0;
+    padding: 2em;
+  }
+
+  #my-role h3 {
+    font-size: 18px;
   }
 
 }
